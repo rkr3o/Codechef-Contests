@@ -1,0 +1,1 @@
+{"name":"Local: 1_Election","url":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 22\\1_Election.cpp","tests":[{"id":1642665108485,"input":"3\n10 2\n20 55 26\n50 1 50","output":"A\nB\nNOTA"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 22\\1_Election.cpp","group":"local","local":true}

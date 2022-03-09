@@ -1,0 +1,1 @@
+{"name":"Local: 1_BatteryLow","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\FEB LUNCHTIME\\1_BatteryLow.cpp","tests":[{"id":1646145167347,"input":"3\n15\n3\n65","output":"YES\nYES \nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\FEB LUNCHTIME\\1_BatteryLow.cpp","group":"local","local":true}

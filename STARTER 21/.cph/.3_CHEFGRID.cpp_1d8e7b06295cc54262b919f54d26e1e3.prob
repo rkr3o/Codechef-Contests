@@ -1,0 +1,1 @@
+{"name":"Local: 3_CHEFGRID","url":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 21\\3_CHEFGRID.cpp","tests":[{"id":1641397168938,"input":"3\n2\n1 3\n3\n2 7 1\n4\n4 6 7 2","output":"1\n3\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 21\\3_CHEFGRID.cpp","group":"local","local":true}

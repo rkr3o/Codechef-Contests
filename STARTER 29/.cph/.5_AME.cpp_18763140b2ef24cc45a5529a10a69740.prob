@@ -1,0 +1,1 @@
+{"name":"Local: 5_AME","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\STARTER 29\\5_AME.cpp","tests":[{"id":1646842695307,"input":"2\n2\n10 -10\n7\n-3 -2 -1 0 1 2 3","output":"0\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\STARTER 29\\5_AME.cpp","group":"local","local":true}

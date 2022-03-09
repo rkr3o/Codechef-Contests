@@ -1,0 +1,1 @@
+{"name":"Local: AVOIDCONTACT","url":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 24\\AVOIDCONTACT.cpp","tests":[{"id":1643819833489,"input":"3\n4 0\n5 3\n3 3\n","output":"4\n8\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\LUV COD\\CODE CHEF\\STARTER 24\\AVOIDCONTACT.cpp","group":"local","local":true}

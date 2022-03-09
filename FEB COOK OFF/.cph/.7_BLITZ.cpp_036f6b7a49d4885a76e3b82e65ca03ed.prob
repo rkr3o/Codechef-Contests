@@ -1,0 +1,1 @@
+{"name":"Local: 7_BLITZ","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\FEB COOK OFF\\7_BLITZ.cpp","tests":[{"id":1645525853455,"input":"3\n10 0 2\n11 2 1\n12 192 192\n","output":"378\n379\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\FEB COOK OFF\\7_BLITZ.cpp","group":"local","local":true}
