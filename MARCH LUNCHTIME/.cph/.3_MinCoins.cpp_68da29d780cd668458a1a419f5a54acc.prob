@@ -1,0 +1,1 @@
+{"name":"Local: 3_MinCoins","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\MARCH LUNCHTIME\\3_MinCoins.cpp","tests":[{"id":1647704935932,"input":"3\n50\n15\n8","output":"5\n2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\MARCH LUNCHTIME\\3_MinCoins.cpp","group":"local","local":true}

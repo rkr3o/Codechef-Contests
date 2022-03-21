@@ -1,0 +1,1 @@
+{"name":"Local: 4_Sale2","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\MARCH LUNCHTIME\\4_Sale2.cpp","tests":[{"id":1647706875033,"input":"4\n3 4\n4 2\n5 3\n6 1","output":"8\n6\n12\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\MARCH LUNCHTIME\\4_Sale2.cpp","group":"local","local":true}
