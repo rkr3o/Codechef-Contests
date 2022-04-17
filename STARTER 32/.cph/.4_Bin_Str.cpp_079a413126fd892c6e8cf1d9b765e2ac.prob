@@ -1,0 +1,1 @@
+{"name":"Local: 4_Bin_Str","url":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\STARTER 32\\4_Bin_Str.cpp","tests":[{"id":1648656365475,"input":"2\n4 7 3\n1101\n5 3 4\n00000","output":"3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASUS\\Desktop\\MY MISSION XD\\CODE CHEF\\STARTER 32\\4_Bin_Str.cpp","group":"local","local":true}
